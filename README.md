@@ -1,5 +1,5 @@
-# CDCIN
-Few-shot VQA datasets for "Cross-modal Feature Distribution Calibration for Few-shot Visual Question Answering" (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28543/29057)].
+# CDCIN for few-shot visual question answering
+Cross-modal feature Distribution Calibration Inference Network and Few-shot VQA datasets for "Cross-modal Feature Distribution Calibration for Few-shot Visual Question Answering" (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28543/29057)].
 
 We provide the split files for the FSL COCO-QA, FSL VG-QA, and FSL VQA datasets, located in their respective folders.
 
